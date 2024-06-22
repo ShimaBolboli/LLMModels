@@ -116,7 +116,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"text": "Where is the Capi
 ## 4- Expected output 
 
 ____________________________________________________________________
-{"response":"where is the capital city of Canada?\n\nA:\n\nThe capital city of Canada is Ottawa.\n\nA"}
+{"response":"Where is the Capital city of Canada?\n\nThe capital city of Canada is the city that is the seat of the government of Canada. The capital city is the seat of the government of Canada. The capital city is the seat of the government of Canada. The capital city is the seat of the government of Canada. The capital city is the seat of the government of Canada. The capital city is the seat of the government of Canada. The capital city is the seat of the government of Canada."}
 _____________________________________________________________________
 
 The generated text will vary based on the prompt provided and the response from the GPT-Neo model.
